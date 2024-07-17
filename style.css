@@ -1,3 +1,9 @@
+:root{
+    font-family: "Alice", serif;
+    line-height: 150%;
+    color: #573A37;
+}
+
 body{
     background-image: url(./assets/Página\ de\ receita.jpg);
     background-size: cover;
@@ -7,7 +13,7 @@ body{
 
 #page{
     width: 800px;
-    height: 1440px;
+    height: auto;
     margin: 0 auto;
     padding: 24px;
     background-color: #F0E8C2;
@@ -20,6 +26,15 @@ img{
     border-radius: 16px;
 }
 
+h1{
+    line-height: 140%;
+    font-size: 40px;
+}
+
 #about, #ingredients, #preparation{
     margin: 24px;
+}
+
+h2{
+    font-size: 24px;
 }
