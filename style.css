@@ -59,3 +59,13 @@ ul {
 h2{
     font-size: 24px;
 }
+
+footer{
+    text-align: center;
+    margin: 32px auto 48px;
+    color: #F0E8C2;
+}
+
+footer img{
+    vertical-align:middle;
+}
